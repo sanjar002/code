@@ -1,0 +1,80 @@
+.section {
+  .section-wrapper {
+    .logo-pro-text {
+      background: linear-gradient(to right, #dad6ca 0%, #706780 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-size: 56px;
+      font-weight: 700;
+      line-height: 81px;
+      letter-spacing: 0em;
+      text-align: left;
+    }
+    .logo-pro {
+      background: linear-gradient(to right, #dad6ca 0%, #706780 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      max-width: 555px;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 26px;
+      letter-spacing: 0em;
+      text-align: left;
+    }
+    .pro-flex {
+        margin-top: 159px;
+        .content__card_pro {
+            width: 340px;
+            padding-left: 16px;
+            height: 404px;
+            border-radius: 10px;
+            border: 1px solid #4b5563;
+            .card_logo {
+              color: white;
+              font-size: 18px;
+              font-weight: 700;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-align: left;
+              margin-top: 20px;
+              margin-bottom: 10px;
+            }
+            .card_text {
+              color: white;
+              font-size: 16px;
+              font-weight: 400;
+              line-height: 23px;
+              letter-spacing: 0em;
+              text-align: left;
+            }
+            .cardimg {
+              width: 316px;
+              margin-top: 10px;
+            }
+            .card_img_flex {
+              margin-top: 15px;
+              display: flex;
+              align-items: center;
+              img {
+                width: 30px;
+              }
+            }
+            .card__btn {
+              border: none;
+              margin-left: 10px;
+              background-color: black;
+              color: white;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              gap: 10px;
+              font-size: 17px;
+              cursor: pointer;
+              span {
+                font-size: 20px;
+              }
+            }
+          }
+    }
+  }
+}
