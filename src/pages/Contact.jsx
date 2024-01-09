@@ -4,7 +4,7 @@ import "../assets/style/Contact.scss";
 // import { FaInstagram } from "react-icons/fa6";
 // images
 import Telegram from "../assets/media/telegram.png";
-import Instagram from "../assets/media/instagram.png";
+import Instagram from "../assets/media/insta.png";
 import Whatsapp from "../assets/media/whatsApp.png";
 import Phone from "../assets/media/phone.png";
 import contentImage from '../assets/media/image12.png'

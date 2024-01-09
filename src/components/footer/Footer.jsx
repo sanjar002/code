@@ -1,7 +1,7 @@
 // import React from "react";
 import footerRightImg from "../../assets/media/footerRight.svg";
 import Telegram from "../../assets/media/telegram.png";
-import Instagram from "../../assets/media/instagram.png";
+import Instagram from "../../assets/media/insta.png";
 import Whatsapp from "../../assets/media/whatsApp.png";
 import LogoImg from "../../assets/media/logotip.svg"
 import { Link } from "react-router-dom";

@@ -4,7 +4,7 @@ import contentCardImg from "../assets/media/contentCard.svg";
 import { Link } from "react-router-dom";
 import cardProImg from "../assets/media/cardPro.svg";
 import Telegram from "../assets/media/telegram.png";
-import Instagram from "../assets/media/Instagram.png";
+import Instagram from "../assets/media/insta.png";
 import Whatsapp from "../assets/media/whatsApp.png";
 import Phone from "../assets/media/phone.png";
 import { useEffect, useState } from "react";
@@ -342,7 +342,7 @@ const Home = () => {
             </Link>
           </div>
         </section>
-        
+
         <section className="section__home_6">
           <div className="container">
             <div className="sc__6_wrapper">
